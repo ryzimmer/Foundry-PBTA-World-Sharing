@@ -73,3 +73,12 @@ For example (you should replace <insert system id> with the id of the system you
 ## Dependencies
 - Using [Compendium Folders](https://github.com/earlSt1/vtt-compendium-folders) is highly recommended.
 - Actors and Items will only work for systems which have been added.
+
+## When uploading module
+1) Download code as zip (name module)
+2) Extract zip
+3) Move files from module/My-Shared-Compendia to module
+4) delete resources folder
+5) delete original zip
+6) compress module folder to zip
+7) upload the new module.zip (from step 6) and the module.json when creating the release (drag and drop to attach binaries... section)
