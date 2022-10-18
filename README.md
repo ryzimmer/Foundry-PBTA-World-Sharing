@@ -2,6 +2,8 @@
 
 A Foundry VTT module to share Data between worlds via compendia.
 
+This is a forked version for my personal use
+
 ## Installation
 
 1. Go to the Add-on Modules tab within the FoundryVTT Configuration and Setup page.
