@@ -1,7 +1,7 @@
 {
   "id": "my-shared-compendia",
   "title": "My Shared Compendia (generic)",
-  "description": "Creates default set of compendia that are shared across Foundry VTT worlds hosted on the same server. Forked to work for any system (items and actors have to specifiy a system so will need to be added for each)
+  "description": "Creates default set of compendia that are shared across Foundry VTT worlds hosted on the same server. Forked to work for any system (items and actors have to specifiy a system so will need to be added for each)",
     {
       "name": "Stephan Schölzel"
     },
