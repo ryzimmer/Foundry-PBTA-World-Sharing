@@ -72,6 +72,6 @@
     }
   ],
   "download": "https://github.com/ryzimmer/My-Shared-Compendia/archive/refs/heads/main.zip",
-  "manifest": "https://raw.githubusercontent.com/ryzimmer/My-Shared-Compendia/main/module.json",
+  "manifest": "https://github.com/ryzimmer/My-Shared-Compendia/releases/latest/download/module.json",
   "url": "https://github.com/ryzimmer/My-Shared-Compendia"
 }
