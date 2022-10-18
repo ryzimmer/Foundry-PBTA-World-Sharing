@@ -1,7 +1,7 @@
 {
   "id": "my-shared-compendia",
-  "title": "My Shared Compendia",
-  "description": "Creates default set of compendia that are shared across Foundry VTT worlds hosted on the same server. Forked to work for any system",
+  "title": "My Shared Compendia (generic)",
+  "description": "Creates default set of compendia that are shared across Foundry VTT worlds hosted on the same server. Forked to work for any system, though they will need to be added manually for items and actors(curse you foundry v10)",
   "authors": [
     {
       "name": "Stephan Schölzel"
@@ -19,12 +19,14 @@
     {
       "name": "actors",
       "label": "Actors (shared)",
+      "system": "pbta",
       "path": "./packs/actors.db",
       "module": "my-shared-compendia",
       "type": "Actor"
     },
     {
       "name": "items",
+      "system": "pbta",
       "label": "Items (shared)",
       "path": "./packs/items.db",
       "module": "my-shared-compendia",
